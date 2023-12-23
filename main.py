@@ -14,3 +14,9 @@ app.mount("/static", StaticFiles(directory="build/static"), name="static")
 async def serve_react_app(path: str):
     index_file_path = os.path.join("build", "index.html")
     return FileResponse(index_file_path)
+
+
+if __name__ == '__main__':
+    import uvicorn
+
+    uvicorn.run(app, host='0.0.0.0', port=3000)
