@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf7c6d13.css",
+    "main.js": "/static/js/main.963b9585.js",
+    "static/media/specialThanks2.png": "/static/media/specialThanks2.7bee8078ccaa8a4a8fe3.png",
+    "static/media/HASlogo.png": "/static/media/HASlogo.19543bfc646a9b84459c.png",
+    "static/media/developer2.jpg": "/static/media/developer2.fa07c5fcbe43ee5fbdc6.jpg",
+    "static/media/developer1.jpg": "/static/media/developer1.c304a1b20bc064717ecd.jpg",
+    "index.html": "/index.html",
+    "main.bf7c6d13.css.map": "/static/css/main.bf7c6d13.css.map",
+    "main.963b9585.js.map": "/static/js/main.963b9585.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf7c6d13.css",
+    "static/js/main.963b9585.js"
+  ]
+}
